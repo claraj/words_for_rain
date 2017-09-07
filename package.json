@@ -1,0 +1,17 @@
+{
+  "name": "words_for_rain",
+  "version": "1.0.0",
+  "description": "API to provide words for rain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "clara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.10"
+  }
+}
